@@ -1,0 +1,87 @@
+body{
+    *{
+        box-sizing: border-box;
+        
+    }
+}
+.naver{
+    display: flex;
+    margin: auto;
+}
+.naver a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+  
+    
+}
+.naver a:hover {
+    color: red;
+}
+
+img{
+   max-width: 100%;
+}
+h2{
+    color: black;
+    max-width: 100%;
+    max-height: 100%;
+    font-weight: bolder;
+   font-size: 9vw;
+}
+#huhu{
+    color: rgb(235, 138, 13);
+    font-weight: 900;
+    font-size: 2vw;
+}
+.juju{
+    display: flex;
+    background-color: black;
+    flex-direction: column;
+    margin: auto;
+}
+#pops {
+    color: white;
+    font-weight: 800;
+    font-size: 2vw;
+}
+#lolo{
+    font-weight: lighter;
+    color: gray;
+    
+}
+#were{
+    border: solid 1px;
+    border-bottom-color: white;
+    border-top-color: white;
+}
+#hehe{
+    display: flex;
+    margin-left: auto;
+}
+#shaggy{
+    display: flex;
+    height: auto;
+    margin: auto;
+}
+#miki{
+    color: gray;
+    font-size: 2vw;
+}
+
+#sasa{
+    font-weight: bolder;
+    color: black;
+}
+#pics{
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 10px;
+}
+#moja{
+    margin: auto;
+}
+@media screen and ( min-width: 620px){
+        
+}
+
